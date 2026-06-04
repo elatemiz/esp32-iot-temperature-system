@@ -1,0 +1,1 @@
+This project is an IoT system built with two ESP32 microcontrollers. It measures temperature and humidity using a DHT11 sensor, sends the data to a PHP-based web service for storage in a database, and retrieves it to display on an OLED screen. Additionally, the system controls LEDs based on temperature levels, providing visual indicators for different temperature ranges.
